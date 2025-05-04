@@ -24,8 +24,8 @@ Each plugin is contained within its own directory. There are two primary ways to
 
 2. **From GitHub Releases (Recommended):**
     * Go to the [Releases page](https://github.com/dotWee/iina-plugins/releases) of this repository.
-    * Find the latest release and download the `.iinaplgz` file for the desired plugin (e.g., `playlist-sort-by-duration.iinaplgz`).
-    * Double-click the downloaded `.iinaplgz` file. IINA will automatically recognize it and prompt you to install the plugin.
+    * Find the latest release and download the `.iinaplugin` file for the desired plugin (e.g., `playlist-sort-by-duration.iinaplugin`).
+    * Double-click the downloaded `.iinaplugin` file. IINA will automatically recognize it and prompt you to install the plugin.
 
 ## Contributing
 
